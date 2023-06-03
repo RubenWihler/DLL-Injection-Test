@@ -1,2 +1,0 @@
-﻿MSVCRT.lib(exe_main.obj) : error LNK2001: symbole externe non résolu main
-D:\GitHub\DLL-Injection-Test\DLL_Injection_Test\x64\Release\DLL_Injection_Test.exe : fatal error LNK1120: 1 externes non résolus
