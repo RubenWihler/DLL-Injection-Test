@@ -1,3 +1,8 @@
+/*
+* RUBEN WIHLER
+* 03.06.2023
+*/
+
 #include <windows.h>
 #include <stdio.h>
 #include <string>
